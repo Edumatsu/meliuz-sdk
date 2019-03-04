@@ -1,0 +1,7 @@
+{
+    "name": "edumatsu/MeliuzSDK",
+    "description": "Integração com a API do Meliuz",
+    "license": "MIT",
+    "type": "library",
+    "homepage": "https://github.com/Edumatsu/MeliuzSDK"
+  }
